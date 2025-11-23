@@ -1,0 +1,7 @@
+{
+  "name": "NeuroClassify - AI Teachable Machine",
+  "description": "A browser-based multi-class image classifier using TensorFlow.js for local CNNs and Gemini 2.5 Flash for advanced reasoning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
